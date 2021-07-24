@@ -1,4 +1,4 @@
-# Hi, I'm William! :D
+# Hi, I'm William! :computer:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/bywilliams/bywilliams)](https://github.com/bywilliams/bywilliams)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/williamsilva15/)](https://www.linkedin.com/in/williamsilva15/)
