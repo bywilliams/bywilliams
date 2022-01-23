@@ -7,7 +7,7 @@
 ### About me
 I'm a System Analysis and development student and Owner at [@web-site](https://bywilliams.github.io/site/).
 
-- [Courses](https://drive.google.com/drive/folders/1-OoFUodj5QNv2PaIRChvPP3SGOt13KYY) 👨🏼‍🏫 - It's are technical courses on many technologies, such as Java, Python, Flutter, Dart, Git and more
+- [Courses](https://drive.google.com/drive/folders/1-OoFUodj5QNv2PaIRChvPP3SGOt13KYY) 👨🏼‍🏫 - It's are technical courses on many technologies, such as PHP, Java, Python, Flutter, Dart, Git, Boostrap and more
 - [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - I'm write about many things.
 - [Website](https://bywilliams.github.io/site/) 💻 - Working on it.
 
