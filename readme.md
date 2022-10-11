@@ -11,6 +11,4 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas e autor do [@web-site
 - [Blog]() ✍🏼 - Escrevo sobre muitas coisas.
 - [Website](https://bywilliams.github.io/site/) 💻 - Trabalhando nisto.
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bywilliams&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bywilliams&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
