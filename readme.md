@@ -13,4 +13,3 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas e autor do [@web-site
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bywilliams&layout=compact)](https://github.com/bywilliams/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bywilliams)](https://github.com/bywilliams/github-readme-stats)
