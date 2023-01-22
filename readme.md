@@ -11,4 +11,6 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas e autor do [@web-site
 - [Blog]() ✍🏼 - Escrevo sobre muitas coisas.
 - [Website](https://bywilliams.github.io/site/) 💻 - Trabalhando nisto.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bywilliams&layout=compact)](https://github.com/bywilliams/github-readme-stats)
+
 
