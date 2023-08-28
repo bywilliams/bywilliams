@@ -7,7 +7,7 @@
 ### Sobre mim
 Sou um estudante de Análise e Desenvolvimento de Sistemas e autor do sistema de controle financeiro [@Finance Control-](https://financecontrol.epizy.com/index_.php).
 
-- [Cursos](https://drive.google.com/drive/folders/1-OoFUodj5QNv2PaIRChvPP3SGOt13KYY) 👨🏼‍🏫 - São cursos em diversas técnoclogias, como PHP, Java, Python, Flutter, Dart, Git, Boostrap entre outros.
+- [Cursos](https://drive.google.com/drive/folders/1-OoFUodj5QNv2PaIRChvPP3SGOt13KYY) 👨🏼‍🏫 - São cursos em diversas técnoclogias, como PHP, Java, Banco de dados, Flutter, Dart, Git, Boostrap entre outros.
 - [Blog]() ✍🏼 - Escrevo sobre muitas coisas.
 - [Website](https://bywilliams.github.io/site/) 💻 - Trabalhando nisto.
 
