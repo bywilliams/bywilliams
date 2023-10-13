@@ -5,7 +5,7 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCYRCkASNSxbKroHvEaSLV6Q)](https://www.youtube.com/channel/UCYRCkASNSxbKroHvEaSLV6Q)
 
 ### Sobre mim
-Sou um estudante de Análise e Desenvolvimento de Sistemas e autor do sistema de controle financeiro pessoal [@Finance Control-](https://financecontrol.epizy.com/index_.php) e controle financeiro de faturas [@fatura system-](https://financecontrol.epizy.com/faturas).
+Sou um estudante de Análise e Desenvolvimento de Sistemas e autor do sistema de controle financeiro pessoal [@Finance Control-](https://financecontrol.epizy.com/index_teste.php) e controle financeiro de faturas [@fatura system-](https://financecontrol.epizy.com/fatura).
 
 - [Cursos](https://drive.google.com/drive/folders/1-OoFUodj5QNv2PaIRChvPP3SGOt13KYY) 👨🏼‍🏫 - São cursos em diversas técnoclogias, como PHP, Java, Banco de dados, Flutter, Dart, Git, Boostrap entre outros.
 - [Blog]() ✍🏼 - Escrevo sobre muitas coisas.
